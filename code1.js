@@ -714,7 +714,7 @@ for(var i = 0, k = 0, l = gdjs.Game_32sceneCode.GDPlayerObjects1.length;i<l;++i)
 gdjs.Game_32sceneCode.GDPlayerObjects1.length = k;}if ( gdjs.Game_32sceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Game_32sceneCode.conditionTrue_1 = gdjs.Game_32sceneCode.condition1IsTrue_0;
-gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8571116);
+gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8573284);
 }
 }}
 if (gdjs.Game_32sceneCode.condition1IsTrue_0.val) {
@@ -735,7 +735,7 @@ gdjs.Game_32sceneCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(
 }if ( gdjs.Game_32sceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Game_32sceneCode.conditionTrue_1 = gdjs.Game_32sceneCode.condition1IsTrue_0;
-gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8571948);
+gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8574356);
 }
 }}
 if (gdjs.Game_32sceneCode.condition1IsTrue_0.val) {
@@ -755,7 +755,7 @@ gdjs.Game_32sceneCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(
 }if ( gdjs.Game_32sceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Game_32sceneCode.conditionTrue_1 = gdjs.Game_32sceneCode.condition1IsTrue_0;
-gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8572772);
+gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8575212);
 }
 }}
 if (gdjs.Game_32sceneCode.condition1IsTrue_0.val) {
@@ -775,7 +775,7 @@ gdjs.Game_32sceneCode.condition0IsTrue_0.val = gdjs.evtTools.input.isKeyPressed(
 }if ( gdjs.Game_32sceneCode.condition0IsTrue_0.val ) {
 {
 {gdjs.Game_32sceneCode.conditionTrue_1 = gdjs.Game_32sceneCode.condition1IsTrue_0;
-gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8573628);
+gdjs.Game_32sceneCode.conditionTrue_1.val = runtimeScene.getOnceTriggers().triggerOnce(8576068);
 }
 }}
 if (gdjs.Game_32sceneCode.condition1IsTrue_0.val) {
